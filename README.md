@@ -1,6 +1,16 @@
 # PyFetch
 A neofetch-inspired utility module that is coded in Python and used for specialized operating systems.
 
+## What is PyFetch?
+PyFetch is a neofetch-inspired utility that will be used by ArryanOS, WhirlyOS, OpenMyriad, and Lynux Webs.
+
+Unlike neofetch which uses the bash programming language, pyfetch uses the Python programming language and the os module.
+
+PyFetch will be only preinstalled in the four operating systems mentioned.
+
+To run pyfetch, make sure you have python3 installed. Type in the terminal python3, then type import pyfetch to load the module. After that create a = PyFetch(), then type a.pyfetch() to load the
+utility.
+
 ## How to use
 ![Screenshot](Screenshots/Screenshot%20from%202026-06-01%2015-54-40.png)
 
